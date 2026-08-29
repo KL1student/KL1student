@@ -4,7 +4,7 @@
 
 <!-- Animated Typing SVG Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=268BD2&center=true&vCenter=true&width=600&lines=Full+Stack+%26+AI+Developer;Oil+Spill+Detection+ML;CoinVision+Analytics;MindMate+Full+Stack+Platform;C++Python+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=268BD2&center=true&vCenter=true&width=600&lines=Full+Stack+%26+AI+Developer;Oil+Spill+Detection+ML;CoinVision+Analytics;MindMate+Full+Stack+Platform;C%2B%2B+%26+Python+Engineer" alt="Typing SVG" />
 </a>
 
 </div>
