@@ -11,32 +11,6 @@
 
 ---
 
-<div align="center">
-
-<p align="center">
-  <b>Computer Vision • Full Stack Development • Applied AI</b>
-</p>
-
-<!-- Sleek Minimalist Terminal Typing Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+robust+Computer+Vision+%26+ML+pipelines;Developing+scalable+full-stack+architectures;Oil+Spill+Detection+%7C+CoinVision+%7C+MindMate" alt="Typing Banner" />
-</a>
-
-<br><br>
-
-<p align="center">
-  <a href="https://github.com/KL1student">
-    <img src="https://img.shields.io/badge/Status-Active%20Building-1f6feb?style=flat-square" alt="Status"/>
-  </a>
-  <a href="https://github.com/KL1student">
-    <img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%26%20Full%20Stack-0e75b6?style=flat-square" alt="Focus"/>
-  </a>
-</p>
-
-</div>
-
----
-
 ### 💻 System Overview
 
 Focused on engineering production-ready applications spanning computer vision models, data analytics, and modern full-stack backends. 
