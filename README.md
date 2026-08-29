@@ -11,65 +11,137 @@
 
 ---
 
-### 🎮 Arcade & Animation Zone
-
 <div align="center">
 
-<!-- Retro Animated Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=073642&height=180&section=header&text=👾%20Leveling%20Up%20Code&fontSize=32&fontColor=2AA198&animation=fadeIn" width="100%" alt="Header Wave Animation" />
+<p align="center">
+  <b>Computer Vision • Full Stack Development • Applied AI</b>
+</p>
+
+<!-- Sleek Minimalist Terminal Typing Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+robust+Computer+Vision+%26+ML+pipelines;Developing+scalable+full-stack+architectures;Oil+Spill+Detection+%7C+CoinVision+%7C+MindMate" alt="Typing Banner" />
+</a>
 
 <br><br>
 
-<!-- Animated Coding Character -->
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" alt="Animated Coding Character" />
-
-<br>
-<em>☕ Turning logic and algorithms into interactive systems</em>
-
-</div>
-
----
-
-### 🚀 Featured Projects & Systems
-
-| Project | Domain / Type | Architecture & Highlights | Tech Stack |
-| :--- | :---: | :--- | :--- |
-| [**Oil Spill Detection**](https://github.com/KL1student/Oil_Spill_Detection) | **AI / Computer Vision** | Machine learning and image processing system designed for oil spill identification and monitoring. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> |
-| [**CoinVision**](https://github.com/KL1student/CoinVision) | **Computer Vision & Web** | Coin detection and recognition system leveraging OpenCV image processing paired with an interactive React frontend. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> |
-| [**MindMate (Backend)**](https://github.com/KL1student/MindMate-Backend) | **AI Backend & API** | REST API service built using Node.js & Express, Supabase database, and AI integration architected with the Waterfall SDLC. | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white"/> |
-| [**MindMate (Frontend)**](https://github.com/KL1student/MindMate-Frontend) | **Frontend / Web UI** | Responsive and modern web client built with React.js for intuitive mental health companion interaction. | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
-
----
-
-### ⚡ Languages & Tech Stack
-
-<div align="center">
-
-#### **Languages & Core**
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css&theme=dark" alt="Languages" />
-
-<br>
-
-#### **Frameworks, Libraries & Cloud Services**
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,supabase,opencv,pytorch,tensorflow&theme=dark" alt="Frameworks and DBs" />
-
-<br>
-
-#### **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,netlify,postman&theme=dark" alt="Tools" />
-
-</div>
-
----
-
-### 📬 Connect With Me
-
-<div align="center">
-  <a href="https://github.com/KL1student" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<p align="center">
+  <a href="https://github.com/KL1student">
+    <img src="https://img.shields.io/badge/Status-Active%20Building-1f6feb?style=flat-square" alt="Status"/>
   </a>
+  <a href="https://github.com/KL1student">
+    <img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%26%20Full%20Stack-0e75b6?style=flat-square" alt="Focus"/>
+  </a>
+</p>
+
 </div>
 
+---
+
+### 💻 System Overview
+
+Focused on engineering production-ready applications spanning computer vision models, data analytics, and modern full-stack backends. 
+
+- **Vision & ML:** Object segmentation, OpenCV pipelines, predictive data models.
+- **Backend Architecture:** REST API design, Node.js services, database modeling with Supabase.
+- **Client Interfaces:** Responsive, state-driven interfaces built with React.js.
+
+---
+
+### 📂 Engineering Projects
+
+<table>
+  <thead>
+    <tr>
+      <th width="30%">Project</th>
+      <th width="45%">Description & Architecture</th>
+      <th width="25%">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/KL1student/Oil_Spill_Detection">Oil Spill Detection</a></b></td>
+      <td>Autonomous machine learning pipeline engineered for marine oil slick identification and spatial monitoring using computer vision.</td>
+      <td>
+        <code>Python</code><br>
+        <code>OpenCV</code><br>
+        <code>PyTorch</code>
+      </td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/KL1student/CoinVision">CoinVision</a></b></td>
+      <td>Automated coin detection, segmentation, and classification engine utilizing OpenCV routines integrated with a modern React UI.</td>
+      <td>
+        <code>Python</code><br>
+        <code>OpenCV</code><br>
+        <code>React.js</code>
+      </td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/KL1student/MindMate-Backend">MindMate (Backend)</a></b></td>
+      <td>Enterprise AI mental health API service architected under the Waterfall SDLC, managing authentication, secure database queries, and routing.</td>
+      <td>
+        <code>Node.js</code><br>
+        <code>Express</code><br>
+        <code>Supabase</code>
+      </td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/KL1student/MindMate-Frontend">MindMate (Frontend)</a></b></td>
+      <td>Responsive, accessible client interface providing fluid real-time communication with backend AI services.</td>
+      <td>
+        <code>React.js</code><br>
+        <code>JavaScript</code><br>
+        <code>CSS3</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 🛠️ Technical Competencies
+
+<table width="100%">
+  <tr>
+    <td width="30%"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Frameworks & Vision</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Databases & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><b>DevOps & Environment</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=073642&height=100&section=footer" width="100%" alt="Footer Wave Animation" />
+  <sub>Engineered by <b>Shivanandh V</b> • Hosted on GitHub</sub>
 </div>
