@@ -4,7 +4,7 @@
 
 <!-- Animated Typing SVG Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=268BD2&center=true&vCenter=true&width=600&lines=Full+Stack+%26+AI+Developer;Oil+Spill+Detection+ML;CoinVision+Analytics;MindMate+Full+Stack+Platform;C%2B%2B+%26+Python+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=268BD2&center=true&vCenter=true&width=620&lines=Full+Stack+%26+Computer+Vision+Developer;Oil+Spill+Detection+ML;CoinVision+OpenCV+%26+React;MindMate+AI+Mental+Health+Platform;Node.js+%2B+Supabase+%2B+React" alt="Typing SVG" />
 </a>
 
 </div>
@@ -24,7 +24,7 @@
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" alt="Animated Coding Character" />
 
 <br>
-<em>☕ Turning logic and coffee into working systems</em>
+<em>☕ Turning logic and algorithms into interactive systems</em>
 
 </div>
 
@@ -34,10 +34,10 @@
 
 | Project | Domain / Type | Architecture & Highlights | Tech Stack |
 | :--- | :---: | :--- | :--- |
-| [**Oil Spill Detection**](https://github.com/KL1student/Oil_Spill_Detection) | **AI / Computer Vision** | Machine learning and satellite image processing system designed for marine oil slick detection. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> |
-| [**CoinVision**](https://github.com/KL1student/CoinVision) | **Crypto / Analytics** | Real-time market tracking, price analytics, and predictive data visualization engine. | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/> |
-| [**MindMate (Backend)**](https://github.com/KL1student/MindMate-Backend) | **Backend / API** | Scalable REST API architecture managing secure authentication, data routing, and business logic. | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> |
-| [**MindMate (Frontend)**](https://github.com/KL1student/MindMate-Frontend) | **Frontend / UI** | Modern, responsive client interface featuring interactive states and seamless API integration. | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> |
+| [**Oil Spill Detection**](https://github.com/KL1student/Oil_Spill_Detection) | **AI / Computer Vision** | Machine learning and image processing system designed for oil spill identification and monitoring. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> |
+| [**CoinVision**](https://github.com/KL1student/CoinVision) | **Computer Vision & Web** | Coin detection and recognition system leveraging OpenCV image processing paired with an interactive React frontend. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> |
+| [**MindMate (Backend)**](https://github.com/KL1student/MindMate-Backend) | **AI Backend & API** | REST API service built using Node.js & Express, Supabase database, and AI integration architected with the Waterfall SDLC. | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white"/> |
+| [**MindMate (Frontend)**](https://github.com/KL1student/MindMate-Frontend) | **Frontend / Web UI** | Responsive and modern web client built with React.js for intuitive mental health companion interaction. | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
 
 ---
 
@@ -50,8 +50,8 @@
 
 <br>
 
-#### **Frameworks, Libraries & Databases**
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tensorflow,pytorch&theme=dark" alt="Frameworks" />
+#### **Frameworks, Libraries & Cloud Services**
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,supabase,opencv,pytorch,tensorflow&theme=dark" alt="Frameworks and DBs" />
 
 <br>
 
